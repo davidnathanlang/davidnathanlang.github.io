@@ -1,0 +1,204 @@
+---
+layout: project
+urltitle: "David Lang"
+title: "David Lang"
+categories: David Lang, Standford University, Economics of Education, Data Science, Deep Knowledge Tracing.
+permalink: /
+favicon: ./static/img/david.jpg
+---
+
+<!-- %%%%%%%%%%%%%%%%%%% OVERVIEW %%%%%%%%%%%%%%%%%%% -->
+<div class="row" style="margin-top:30px;">
+  <div class="col-sm-3">
+    <img class="my-pic" src="{{ "./static/img/david.jpg" | relative_url }}">
+  </div>
+  <div class="col-sm-9">
+    Ph.D Candidate
+    <br>
+    <a href="https://ed.stanford.edu/academics/doctoral/ships"> Department of Education </a>
+    <br>
+    <a href="https://ed.stanford.edu"> Stanford University </a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <span class="colon-pad">Email</span> : <a href="mailto:davidnathanlang@stanford.edu"> davidnathanlang@stanford.edu </a>
+    <br>
+    <span class="colon-pad">Twitter</span> : <a href="https://twitter.com/davidnlang"> @davidnlang </a>
+  </div>
+</div>
+<hr>
+
+<!-- %%%%%%%%%%%%%%%%%%% EDUCATION %%%%%%%%%%%%%%%%%%% -->
+## Education
+<a class="anchor" name="/education"></a>
+
+<div class="row">
+  <div class="col-md-2 year">
+    2015&mdash;2020
+  </div>
+  <div class="col-md-10">
+    <p>
+    Ph.D., Economics of Education, Stanford University<br>
+
+    Thesis Title: Platform Design in Educational Contexts <br>
+
+    Advisors: Ben Domingue, Eric Bettinger, Mitchell Stevens, and Nick Haber
+    </p>
+  </div>
+
+  <div class="col-md-2 year">
+    2011&mdash;2014
+  </div>
+  <div class="col-md-10">
+    <p>M.S., Management Science and Engineering, Stanford University</p>
+  </div>
+
+  <div class="col-md-2 year">
+    2004&mdash;2008
+  </div>
+  <div class="col-md-10">
+    <p>B.S., Applied Mathematics, UCLA</p>
+  </div>
+
+  <div class="col-md-2 year">
+    2004&mdash;2008
+  </div>
+  <div class="col-md-10">
+    <p>B.S., Economics, UCLA</p>
+  </div>
+</div>
+------------
+
+<!-- %%%%%%%%%%%%%%%%%%% ABOUT %%%%%%%%%%%%%%%%%%% -->
+## Publications and Conference Proceedings
+<a class="anchor" name="/publications-and-conference-proceedings"></a>
+
+1.  **Lang, D.** Stenhaug, B. Kizilcec, R. 2019. "Keystrokes, Edit
+    Distance, and Grading Rules: Psychometric Properties of Short Answer
+    Items." AERA 2019. (Forthcoming)
+
+2.  Mongkhonvanit, K., Kanopka, K., & **Lang, D.** (2019, March). Deep
+    Knowledge Tracing and Engagement with MOOCs. In Proceedings of the
+    9th International Conference on Learning Analytics & Knowledge (pp.
+    340-342). ACM.
+
+3.  Benotti, L., Bhaskaran, J., Kjartansson, S., & **Lang, D.** (2018).
+    Modeling Student Response Times: Towards Efficient One-on-one
+    Tutoring Dialogues. In Proceedings of the 2018 EMNLP Workshop W-NUT:
+    The 4th Workshop on Noisy User-generated Text (pp. 121-131).
+
+4.  Domingue, B. W., **Lang, D.**, Cuevas, M., Castellanos, M., Lopera,
+    C., Mariño, J. P., \... & Shavelson, R. J. (2017). Measuring student
+    learning in technical programs: A case study from Colombia. AERA
+    Open, 3(1), 2332858417692997.
+
+5.  **Lang, D.**, Kindel, A., Domingue, B., & Paepcke, A. (2017). Making
+    the Grade: How Learner Engagement Changes after Passing a Course.
+    Proceedings of Educational Data Mining. Furlong, F., **Lang, D.**, &
+    Takhtamanova, Y. (2014). Drivers of mortgage choices by risky
+    borrowers. FRBSF Economic Letter, 01.
+
+6.  Furlong, F. T., Takhtamanova, Y., & **Lang, D**. (2014, March).
+    Mortgage Choice in the Housing Boom: Impacts of House Price
+    Appreciation and Borrower Type. Federal Reserve Bank of San
+    Francisco.
+
+7.  Hobijn, B., Krainer, J., & **Lang, D**. (2011). Cap rates and
+    commercial property prices. FRBSF Economic Letter, 2011, 29.
+
+8.  **Lang, D.**, & Lansing, K. J. (2010). Forecasting growth over the
+    next year with a business cycle index. FRBSF Economic Letter,
+    2010, 29.
+
+------------
+<!-- %%%%%%%%%%%%%%%%%%% RESEARCH %%%%%%%%%%%%%%%%%%% -->
+## Presentations
+<a class="anchor" name="/presentations"></a>
+
+### Recorded Presentations
+<span></span>
+-   UW Data Science for Social Good 2019: Peer Support
+    <https://youtu.be/Sp61cGvxn00?t=5348>
+
+-   Bay Area Learning and Analytics Conference (2019)
+    <https://youtu.be/ThRQPWcmfYE>
+<br>
+
+### Other Presentations
+<span></span>
+-   Bay Area Learning and Analytics Conference (2019). \"Clickstreams,
+    Video Engagement, and Course Performance.\"
+
+-   Bay Area Learning and Analytics Conference (2018). \"Teacher
+    Professional Development: Social Networks and Influence
+    Maximization.\"
+
+-   Bay Area Learning and Analytics Conference (2018). \"Heterogeneous
+    Effects of Cellphone Credit Incentives on Mobile Learning in
+    Africa.\"
+
+-   Center for Education Policy Analysis Alumni Research Conference,
+    Stanford University (2018). \"Air Quality Inequality: A Study of San
+    Francisco Schools.\"
+
+------------
+
+<!-- %%%%%%%%%%%%%%%%%%% ACKNOWLEDGEMENTS %%%%%%%%%%%%%%%%%%% -->
+## Research Partnerships
+<span></span>
+**Yup**- Yup is a text-messaged based tutoring company
+
+-   Completed Projects: Modelling student response time to tutor
+    questions
+
+-   Completed Projects: A randomized controlled trial evaluation of a
+    digital whiteboard in a remote tutoring environment
+
+-   Ongoing Projects: Diffusion of teacher practice using social network
+    analysis
+
+-   Ongoing Projects: Measuring the impact of badges and gamification in
+    a tutoring platform
+
+**Reup**- Reup is a college-coaching company that encourages students to
+re-enroll in college after dropping out
+
+-   Ongoing Projects: Predicting college re-enrollment using coaching
+    transcripts and natural language processing
+
+**Eneza**- Eneza is a Kenyan learning platform that provides primary and
+secondary education via SMS and feature phones
+
+-   Ongoing Projects: Understanding the effect of microcredit incentives
+    in educational platforms
+
+-   Completed Projects: Predicting psychometric features of items using
+    natural language processing
+
+------------
+<!-- %%%%%%%%%%%%%%%%%%% AWARDS %%%%%%%%%%%%%%%%%%% -->
+
+## Awards
+<span></span>
+-   Best Paper Award. (CS 230: Deep Learning) "Deep Knowledge and
+    Engagement Tracing" Kanopka, K. Lang, D. Mongkhonvanit, K. (2018)
+
+-   Travel Scholarship. Berkeley Initiative for Transparency in the
+    Social Sciences Research Transparency and Reproducibility
+    Training (2018)
+
+-   Travel Scholarship. 21st Summer Institute in Statistical Genetics
+    (SISG) (2015)
+
+------------
+## Projects and Code
+<span></span>
+-   Data Science for Social Good
+    <https://uwescience.github.io/DSSG-Peer-Support>
+
+-   Deep Knowledge Tracing
+    **[github.com/klintkanopka/dkt2](github.com/klintkanopka/dkt2)**
+
+-   Tutor-Response-Time Models
+    **[github.com/davidnathanlang/cs224u-project](github.com/davidnathanlang/cs224u-project)**

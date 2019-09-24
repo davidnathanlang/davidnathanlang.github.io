@@ -1,0 +1,13 @@
+title: David Lang Site
+email: davidnathanlang@stanford.edu
+description: David Lang Personal Website
+baseurl: "/david-lang" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id:
+
+#social media
+twitter: davidnlang

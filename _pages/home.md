@@ -202,3 +202,111 @@ secondary education via SMS and feature phones
 
 -   Tutor-Response-Time Models
     **[github.com/davidnathanlang/cs224u-project](github.com/davidnathanlang/cs224u-project)**
+
+------------
+## Skills and Programming Languages
+<span></span>
+-   Expert: Stata, R
+
+-   Proficient: Matlab, Python, SQL
+
+-   Novice: TensorFlow, PyTorch
+
+Technical Skills: Social Network Analysis, Natural Language Processing,
+Computer Vision, Machine Learning, Causal Inference, Regression
+Analysis, Econometrics, and Psychometrics
+
+------------
+## Employment
+<span></span>
+-   (Summer 2019--Present) & *Data Science Fellow*, University of
+    Washington
+
+    -   Identified counseling and peer support strategies using natural
+        language processing tools
+
+    -   conducted social network analysis on network platform with more
+        than 500,000 thousand users
+
+    -   Met with platform stakeholders and recommended a set of
+        interventions to improve users mental health
+
+<!-- -->
+
+-   (2018--Present) & *Researcher*, Stanford Graduate School of Business
+
+    -   Conducted interviews regarding the XPrize competition, Adult
+        Literacy, incentive prizes, and AI in educational settings
+
+    -   Assisted in the organization of a conference on Market Shaping
+        (attendees include Hal Varian, Al Roth, Susan Athey, and other
+        experts in the field of market design and machine learning)
+
+    -   Wrote a summative white paper of findings and conference
+        proceedings
+
+-   (2015--Present) & *Ph.D. Candidate*, Graduate School of Education,
+    Stanford University
+
+    -   Conducted natural language processing on text-message-based
+        tutoring services to improve lesson quality and student
+        engagement
+
+    -   Recruited and ran randomized controlled trials on a mobile
+        tutoring network
+
+    -   Analyzed Stanford online course clickstream data and recommended
+        policy and feature changes to improve student completion rates
+
+    -   Worked with San Francisco Unified School District to develop
+        models to identify dyslexic students and predict student
+        absences
+
+-   (2015--2018) & *Partner/Consultant*, Data Dream Team Consulting LLC,
+
+    -   Worked with airlines to predict customer frequent-flier
+        redemption
+
+    -   Cleaned and massaged a terabyte plus transactional database for
+        preprocessing
+
+    -   Discussed and defended modelling choices with clients and
+        financial auditors
+
+    -   Recommended changes to frequent-flier programs based on findings
+
+-   (2014--2015) & *Workforce Analyst*, University of California Office
+    of the President
+
+    -   Evaluated systemwide policies on faculty hiring committee
+        composition and its effects on minority hiring outcomes
+
+    -   Reviewed and modeled faculty salary equity studies for all ten
+        campuses
+
+    -   Conducted survival analysis based on UC faculty data and other
+        data sources to predict faculty retirement
+
+    -   Conducted longitudinal analysis of faculty
+        advancement/separation using a competing risk hazard model
+
+-   (2008--2014) & *Research Analyst/Associate*, Federal Reserve Bank of
+    San Francisco
+
+    -   Spoke to a wide range of academic, public, and professional
+        audiences about the economic outlook and recent monetary policy
+        decisions
+
+    -   Fact-checked President Janet Yellen's speeches
+
+    -   Used data-mining techniques to improve collections on the
+        Treasury's billion-dollar debt portfolio on a joint project with
+        McKinsey and the Treasury
+
+    -   Created and cleaned a variety of datasets which utilized the
+        Consumer Expenditure Survey, McDash Mortgage Data, and other
+        financial datasets
+
+    -   Created a data-retrieval add-in that improved productivity and
+        saved our department several thousand dollars relative to
+        proprietary alternatives

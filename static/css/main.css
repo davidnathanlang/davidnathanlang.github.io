@@ -314,6 +314,9 @@ pre {
     /* max-height: 95px; */
     max-width: 200px;
   }
+  ul.nav.navbar-nav {
+    padding-left: 15px;
+  }
 }
 
 /* Utility class */

@@ -80,7 +80,15 @@ a {
   text-decoration: none;
   border-bottom: 1px solid #ccc;
   color: inherit;
+  -webkit-transition: all 0.15s ease-out 0s;
+  -moz-transition: all 0.15s ease-out 0s;
+  transition: all 0.15s ease-out 0s;
 }
+
+a:hover {
+  border-bottom: 1px solid #2196f3;
+}
+
 
 .navbar a {
   border-bottom: 0;

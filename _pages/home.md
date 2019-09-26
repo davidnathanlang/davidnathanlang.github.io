@@ -195,7 +195,7 @@ secondary education via SMS and feature phones
 ## Projects and Code
 <span></span>
 -   Data Science for Social Good
-    <https://uwescience.github.io/DSSG-Peer-Support>
+    **[https://uwescience.github.io/DSSG-Peer-Support](https://uwescience.github.io/DSSG-Peer-Support)**
 
 -   Deep Knowledge Tracing
     **[github.com/klintkanopka/dkt2](github.com/klintkanopka/dkt2)**

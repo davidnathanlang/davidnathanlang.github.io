@@ -4,13 +4,12 @@ urltitle: "David Lang"
 title: "David Lang"
 categories: David Lang, Standford University, Economics of Education, Data Science, Deep Knowledge Tracing.
 permalink: /
-favicon: ./static/img/david.jpg
 ---
 
 <!-- %%%%%%%%%%%%%%%%%%% OVERVIEW %%%%%%%%%%%%%%%%%%% -->
 <div class="row" style="margin-top:30px;">
   <div class="col-sm-3">
-    <img class="my-pic" src="{{ "./static/img/david.jpg" | relative_url }}">
+    <img class="my-pic" src="{{ "./static/img/bernanke.jpg" | relative_url }}">
   </div>
   <div class="col-sm-9">
     Ph.D Candidate

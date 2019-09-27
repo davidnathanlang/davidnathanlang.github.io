@@ -265,7 +265,7 @@ Analysis, Econometrics, and Psychometrics
 ------------
 ## Employment
 <span></span>
--   (Summer 2019--Present) & *Data Science Fellow*, University of
+-   (Summer 2019--Present) *Data Science Fellow*, University of
     Washington
 
     -   Identified counseling and peer support strategies using natural
@@ -279,7 +279,7 @@ Analysis, Econometrics, and Psychometrics
 
 <!-- -->
 
--   (2018--Present) & *Researcher*, Stanford Graduate School of Business
+-   (2018--Present) *Researcher*, Stanford Graduate School of Business
 
     -   Conducted interviews regarding the XPrize competition, Adult
         Literacy, incentive prizes, and AI in educational settings
@@ -291,7 +291,7 @@ Analysis, Econometrics, and Psychometrics
     -   Wrote a summative white paper of findings and conference
         proceedings
 
--   (2015--Present) & *Ph.D. Candidate*, Graduate School of Education,
+-   (2015--Present) *Ph.D. Candidate*, Graduate School of Education,
     Stanford University
 
     -   Conducted natural language processing on text-message-based
@@ -308,7 +308,7 @@ Analysis, Econometrics, and Psychometrics
         models to identify dyslexic students and predict student
         absences
 
--   (2015--2018) & *Partner/Consultant*, Data Dream Team Consulting LLC,
+-   (2015--2018) *Partner/Consultant*, Data Dream Team Consulting LLC,
 
     -   Worked with airlines to predict customer frequent-flier
         redemption
@@ -321,7 +321,7 @@ Analysis, Econometrics, and Psychometrics
 
     -   Recommended changes to frequent-flier programs based on findings
 
--   (2014--2015) & *Workforce Analyst*, University of California Office
+-   (2014--2015) *Workforce Analyst*, University of California Office
     of the President
 
     -   Evaluated systemwide policies on faculty hiring committee
@@ -336,7 +336,7 @@ Analysis, Econometrics, and Psychometrics
     -   Conducted longitudinal analysis of faculty
         advancement/separation using a competing risk hazard model
 
--   (2008--2014) & *Research Analyst/Associate*, Federal Reserve Bank of
+-   (2008--2014) *Research Analyst/Associate*, Federal Reserve Bank of
     San Francisco
 
     -   Spoke to a wide range of academic, public, and professional

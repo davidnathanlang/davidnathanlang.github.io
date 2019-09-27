@@ -135,7 +135,7 @@ permalink: /
 -   **Lang, D.** (2017) [Digital Canvases and Remote
     Tutoring.](https://www.dropbox.com/s/l2x8bngfmv6791p/QualifyingPaper2017.pdf?dl=0)
 
--   **Lang, D.** Lee, H. (2017) [Modeling Innovation Diffusion in an
+-   Anderson, R. **Lang, D.** Lee, H. (2017) [Modeling Innovation Diffusion in an
     Online Tutoring
     Network.](https://www.dropbox.com/s/rpbbhjtq88iee4i/TutorDiffusionNetworks.pdf?dl=0)
 
@@ -143,17 +143,17 @@ permalink: /
 ### Posters
 <span></span>
 
-Kanopka, K. **Lang, D**.(2019) [Adversarial Examples for Neural
+-   Kanopka, K. **Lang, D**.(2019) [Adversarial Examples for Neural
 Automatic Essay Scoring
 Systems.](https://www.dropbox.com/s/gnyutwjn0byf3sq/EssayGrading.pdf?dl=0)
 
-Kanopka, K. **Lang, D**.(2018) [Deep Knowledge Tracing and Engagement in
+-   Kanopka, K. **Lang, D**.(2018) [Deep Knowledge Tracing and Engagement in
 MOOCs.](https://www.dropbox.com/s/ynlotihd2dhyy1x/DeepKnowledgeTracing.pdf?dl=0)
 
-**Lang, D**.(2018) [Air Inequality: A Study of California
+-   **Lang, D**.(2018) [Air Inequality: A Study of California
 Schools](https://www.dropbox.com/s/vewmcuyi19kmqf8/Air_Quality_Inequality__A_Study_of_California_Schools%20%281%29.pdf?dl=0)
 
-**Bennoti, L. Bhaskaran, J. Kjartansson, S. Lang, D**.(2018) [Modeling
+-   **Bennoti, L. Bhaskaran, J. Kjartansson, S. Lang, D**.(2018) [Modeling
 Student Response Times: Towards Efficient One-on-one Tutoring
 Dialogues.](https://www.dropbox.com/s/fyeta8smci317m9/WNUT_Poster.pdf?dl=0)
 

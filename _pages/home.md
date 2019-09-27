@@ -20,7 +20,6 @@ permalink: /
     <br>
     <br>
     <br>
-    <br>
     <span class="colon-pad">Email</span> : <a href="mailto:davidnathanlang@stanford.edu"> davidnathanlang@stanford.edu </a>
     <br>
     <span class="colon-pad">Twitter</span> : <a href="https://twitter.com/davidnlang"> @davidnlang </a>

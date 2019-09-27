@@ -68,7 +68,7 @@ permalink: /
 </div>
 ------------
 
-<!-- %%%%%%%%%%%%%%%%%%% ABOUT %%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%% PUBLICATIONS %%%%%%%%%%%%%%%%%%% -->
 ## Publications and Conference Proceedings
 <a class="anchor" name="/publications-and-conference-proceedings"></a>
 
@@ -158,7 +158,7 @@ Student Response Times: Towards Efficient One-on-one Tutoring
 Dialogues.](https://www.dropbox.com/s/fyeta8smci317m9/WNUT_Poster.pdf?dl=0)
 
 ------------
-<!-- %%%%%%%%%%%%%%%%%%% RESEARCH %%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%% PRESENTATIONS %%%%%%%%%%%%%%%%%%% -->
 ## Presentations
 <a class="anchor" name="/presentations"></a>
 
@@ -190,7 +190,7 @@ Dialogues.](https://www.dropbox.com/s/fyeta8smci317m9/WNUT_Poster.pdf?dl=0)
 
 ------------
 
-<!-- %%%%%%%%%%%%%%%%%%% ACKNOWLEDGEMENTS %%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%% RESEARCH %%%%%%%%%%%%%%%%%%% -->
 ## Research Partnerships
 <span></span>
 **Yup**- Yup is a text-messaged based tutoring company

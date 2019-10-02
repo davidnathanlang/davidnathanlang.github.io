@@ -8,42 +8,6 @@ author: Gogul Ilango
 permalink: software/digits-recognition-mlp
 ---
 
-<div class="git-showcase">
-  <div>
-    <a class="github-button" href="https://github.com/Gogul09" data-show-count="true" aria-label="Follow @Gogul09 on GitHub">Follow @Gogul09</a>
-  </div>
-
-  <div>
-    <a class="github-button" href="https://github.com/Gogul09/deep-learning-fundamentals/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork Gogul09/deep-learning-fundamentals on GitHub">Fork</a>
-  </div>
-
-  <div>
-    <a class="github-button" href="https://github.com/Gogul09/deep-learning-fundamentals" data-icon="octicon-star" data-show-count="true" aria-label="Star Gogul09/deep-learning-fundamentals on GitHub">Star</a>
-  </div>
-</div>
-
-<div class="sidebar_tracker" id="sidebar_tracker">
-  <button onclick="closeSidebar('sidebar_tracker_content')">X</button>
-  <p onclick="showSidebar('sidebar_tracker_content')">Contents</p>
-  <ul id="sidebar_tracker_content">
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_1" href="#dependencies">Dependencies</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_2" href="#pipeline">Pipeline</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_3" href="#dataset-summary">Dataset summary</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_4" href="#organize-imports">Organize imports</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_5" href="#define-user-inputs">Define user inputs</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_6" href="#prepare-the-dataset">Prepare the dataset</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_7" href="#one-hot-encoding">One Hot Encoding</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_8" href="#create-the-model">Create the model</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_9" href="#compile-the-model">Compile the model</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_10" href="#fit-the-model">Fit the model</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_11" href="#evaluate-the-model">Evaluate the model</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_12" href="#results">Results</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_13" href="#complete-code">Complete code</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_14" href="#testing-the-model">Testing the model</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_15" href="#summary">Summary</a></li>
-  </ul>
-</div>
-
 **In this tutorial, we will learn how to recognize handwritten digit using a simple Multi-Layer Perceptron (MLP) in Keras. We will also learn how to build a near state-of-the-art deep neural network model using Python and Keras. A quick Google search about this dataset will give you tons of information - [MNIST](https://en.wikipedia.org/wiki/MNIST_database){:target="_blank"}.**
 
 > **Update**: As Python2 faces [end of life](https://pythonclock.org/), the below code only supports **Python3**.

@@ -9,35 +9,6 @@ permalink: /software/regression-example-boston-housing-prices
 tag: regression problem
 ---
 
-<div class="sidebar_tracker" id="sidebar_tracker">
-  <button onclick="closeSidebar('sidebar_tracker_content')">X</button>
-  <p onclick="showSidebar('sidebar_tracker_content')">Contents</p>
-  <ul id="sidebar_tracker_content">
-  		<li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_1" href="#dependencies">Dependencies</a></li>
-		<li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_2" href="#boston-housing-prices-dataset">Boston Housing Prices Dataset</a></li>
-		<li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_3" href="#analyze-the-dataset">Analyze the dataset</a></li>
-		<li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_4" href="#visualize-the-dataset">Visualize the dataset</a></li>
-		<li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_5" href="#training-regression-models">Training regression models</a></li>
-		<li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_6" href="#choosing-the-best-model">Choosing the best model</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_7" href="#references">References</a></li>
-	</ul>
-</div>
-
-<div class="git-showcase">
-  <div>
-    <a class="github-button" href="https://github.com/Gogul09" data-show-count="true" aria-label="Follow @Gogul09 on GitHub">Follow @Gogul09</a>
-  </div>
-
-  <div>
-	<a class="github-button" href="https://github.com/Gogul09/explore-machine-learning/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork Gogul09/explore-machine-learning on GitHub">Fork</a>
-
-  </div>
-
-  <div>
-	<a class="github-button" href="https://github.com/Gogul09/explore-machine-learning" data-icon="octicon-star" data-show-count="true" aria-label="Star Gogul09/explore-machine-learning on GitHub">Star</a>
-  </div>
-</div>
-
 **In machine learning, the ability of a model to predict continuous or real values based on a training dataset is called Regression. With a small dataset and some great python libraries, we can solve such a problem with ease.**
 
 In this blog post, we will learn how to solve a supervised regression problem using the famous Boston housing price dataset. Other than location and square footage, a house value is determined by various other factors. Let's analyze this problem in detail and come up with our own machine learning model to predict a housing price.

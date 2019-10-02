@@ -361,3 +361,12 @@ float: left;
   margin-bottom: 55px;
   display: block;
 }
+
+figcaption {
+  padding: 20px;
+  font-size: 14px;
+  color: #8b8b8b;
+  background-color: #ffffff;
+  line-height: 20px;
+  text-align: center
+}

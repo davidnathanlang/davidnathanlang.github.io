@@ -16,9 +16,6 @@ To all those who want to actually write some code to build a Deep Neural Network
 
 In this post, we will learn the simple 6 steps with which we can create our first deep neural network using Keras and Python. Let's get started!
 
-<h3 class="code-head">Objectives</h3>
-
-
 ### Deep Learning Environment Setup
 
 Before getting into concept and code, we need some libraries to get started with Deep Learning in Python. Copy and paste the below commands line-by-line to install all the dependencies needed for Deep Learning using Keras in Linux. I used Ubuntu 14.04 LTS 64-bit architecture as my OS and I didn't use any GPU to speed up computations for this tutorial.

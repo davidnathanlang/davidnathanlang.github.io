@@ -17,9 +17,7 @@ This is because the number of tutorials, videos, lectures, infographics, slides 
 
 > I want to promise you that you can learn and master machine learning and deep learning without spending any money (provided you have an internet connection). Yes. It's possible if you have the interest and will to learn this technology.
 
-<h3 id="demystifying-ml">Demystifying ML</h3>
-
-![Machine learning image](/static/img/machine-learning.jpg)
+### Demystifying ML
 
 Before I get into any jargon, let me say that machine learning is all about **data** and **computational power**. The whole idea behind this learning thing is that we make use of past data and our algorithmic thinking to solve problems around our world.
 
@@ -27,7 +25,12 @@ Easiest example to think is **weather prediction**. How do we know tomorrow's we
 
 Key take away from these two points is that, without data, machine learning fails and without algorithms + compute, machine learning fails.
 
-<h3 id="math-is-god">Math is God</h3>
+### Math is God
+
+<figure>
+    <img src="/static/img/machine-learning.jpg" />
+    <figcaption>Figure 2. Machine Learning</figcaption>
+</figure>
 
 You must have learnt mathematics during your school/college days. As we are dealing with data, before making a machine learn, we need to learn the algorithms first. Hence, pre-requisite for any ML practitioner would be math!
 
@@ -42,7 +45,7 @@ And you need to trust me here because, how do you think your machine learning al
 We can take the courses mentioned above to familiarize ourselves with math needed for machine learning. If you skip this step and think that you can write code without math, you will definitely revisit this line at some point in time.
 
 
-<h3 id="programming">Programming</h3>
+<h3>Programming</h3>
 
 Python programming language is a no-brainer choice when it comes to machine learning. This is because it is easy to learn, highly readable by others and has larger community for help around the world. We need to learn python using freely available learning materials given below.
 
@@ -56,7 +59,7 @@ It will take some time to get a good grip on Python (say 1-2 months). After that
 * [Pandas](https://pandas.pydata.org/){:target="_blank"}
 * [Matplotlib](https://matplotlib.org/){:target="_blank"}
 
-<h3 id="coursera-is-our-teacher">Coursera is our teacher</h3>
+<h3>Coursera is our teacher</h3>
 
 The best place online to learn anything related to Artificial Intelligence is [Coursera](http://coursera.org){:target="_blank}. Once we get comfortable with math, we can take free (audit) coursera courses to learn about machine learning. Some of the useful courses that I completed are given below. I highly recommend you to take these courses instead of searching for some other content in the internet as these are structured courses taught by highly experienced people.
 
@@ -81,7 +84,7 @@ As you see from the above figure, as a beginner, we will mostly focus on supervi
 
 There are two other types of machine learning such as *Unsupervised Learning* and *Reinforcement Learning* which we will be learning once we get a good grip on *Supervised Learning*.
 
-<h3 id="learn-from-scratch">Learn from scratch</h3>
+<h3>Learn from scratch</h3>
 
 Once we become familiar with python and its libraries + completing the above two coursera courses, we need to understand how to implement each machine learning algorithm from scratch using python without any library.
 
@@ -112,13 +115,13 @@ This is very much needed to highlight us from others. Learning how each algorith
 * Gradient boosting regression
 * Neural Nets regressor
 
-<h3 id="applying-everything">Applying everything</h3>
+<h3>Applying everything</h3>
 
 Learning and understanding is just half the part. We need to apply what we have learnt so far. Solving ML problems is highly helpful for you as well as the community. That's why, we have a dedicated place called [Kaggle](http://kaggle.com){:target="_blank"}.
 
 Using Kaggle, we can compete with ML practitioners worldwide and win prizes! Kaggle has integrated Jupyter notebook environment for us, so that we can work on a problem, code it, solve it and share it with the community online.
 
-<h3 id="follow-blogs">Follow Blogs</h3>
+<h3>Follow Blogs</h3>
 
 As machine learning research is moving very fast, to catch up with the latest tools, techniques, algorithms and concepts, we need to follow blogs around the internet. Some of the useful blogs that I follow to learn ML are given below.
 
@@ -127,7 +130,7 @@ As machine learning research is moving very fast, to catch up with the latest to
 * [DeepMind Blog](https://deepmind.com/blog){:target="_blank"} - AlphaGo is the first computer program to defeat a professional human Go player, the first to defeat a Go world champion, and is arguably the strongest Go player in history. Blog of the people behind this amazingness.
 * [OpenAI Blog](https://blog.openai.com/){:target="_blank"} - A nonprofit dedicated to AI research that is sponsored by Elon Musk and Peter Thiel. The focus of its blog is to communicate the state-of-the-art research to the public.
 
-<h3 id="make-use-of-time">Make use of time</h3>
+<h3>Make use of time</h3>
 
 Time is valuable. Once its lost, its lost forever. Hence, we need to utilize the plethora of learning resources freely available for us to learn. Some of the resources that I personally found highly useful are given below.
 
@@ -137,7 +140,7 @@ Time is valuable. Once its lost, its lost forever. Hence, we need to utilize the
 * [Machine Learning Tutorial Videos - Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy){:target="_blank"}
 * [Machine Learning Tutorial Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw){:target="_blank"}
 
-<h3 id="we-need-to-go-deep">We need to go deep</h3>
+<h3>We need to go deep</h3>
 
 Once we get comfortable with machine learning, we can move to deep learning. Deep Learning is a branch of machine learning where the primary algorithm used is a deep neural network. State-of-the-art problems such as image classification, speech recognition, machine translation, style transfer etc., are solved using flavors of deep neural networks such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long-Short Term Memory Networks (LSTM), Generative Adversarial Networks (GAN), Gated Recurrent Units (GRU) etc.,
 

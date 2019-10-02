@@ -9,34 +9,6 @@ image: https://drive.google.com/uc?id=1AUebpO4EK4JJSSchFFYiMZlFDoa1LLoy
 tag: image classifying
 ---
 
-<div class="git-showcase">
-  <div>
-  <a class="github-button" href="https://github.com/Gogul09" data-show-count="true" aria-label="Follow @Gogul09 on GitHub">Follow @Gogul09</a>
-  </div>
-
-  <div>
-  <a class="github-button" href="https://github.com/Gogul09/mobile-net-projects/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork Gogul09/mobile-net-projects on GitHub">Fork</a>
-  </div>
-
-  <div>
-  <a class="github-button" href="https://github.com/Gogul09/mobile-net-projects" data-icon="octicon-star" data-show-count="true" aria-label="Star Gogul09/mobile-net-projects on GitHub">Star</a>
-  </div>
-</div>
-
-<div class="sidebar_tracker" id="sidebar_tracker">
-  <button onclick="closeSidebar('sidebar_tracker_content')">X</button>
-  <p onclick="showSidebar('sidebar_tracker_content')">Contents</p>
-  <ul id="sidebar_tracker_content">
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_1" href="#basic-mobilenet-in-python">Basic MobileNet in Python</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_2" href="#convert-keras-model-into-tf-js-layers-format">Convert Keras model into Tf JS layers format</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_3" href="#keras-model-into-tensorflow-js">Keras model into TensorFlow JS</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_4" href="#load-keras-model-into-tf-js">1. Load Keras model into TF.js</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_5" href="#upload-image-from-disk">2. Upload image from disk</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_6" href="#predict-using-mobilenet-model">3. Predict using MobileNet model</a></li>
-    <li><a class="sidebar_links" onclick="handleSideBarLinks(this.id)" id="link_7" href="#references">References</a></li>
-  </ul>
-</div>
-
 **In this blog post, we will understand how to perform image classification using Keras MobileNet, deploy it in Google Chrome using TensorFlow.js and use it to make live predictions in the browser.**
 
 Being a Python developer with knowledge on Web Development is surely going to help you in the field of Artificial Intelligence in the long run. Because we now have the awesome capabilities of Keras and TensorFlow in a web browser using [TensorFlow.js](https://js.tensorflow.org/){:target="_blank"}.

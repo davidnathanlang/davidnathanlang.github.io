@@ -1,0 +1,44 @@
+---
+layout: blog
+heading: blog
+title: Blog
+subheading: Personal Website of Sarah Chen
+description: I'm Sarah Chen. Co-author of “Python for SAS Users”.  Domain expert in banking and insurance (added).  Loving math and using computers to do things, and super passionate about education for youth (Mandarin Chinese, real world practical and beautiful mathematics, computer programming).
+color: grad-blog
+image: /images/icons/logo.png
+---
+<!-- Blog List -->
+<div class="home-container">
+    <div class="home-articles">
+        <div class="container">
+            <div class="row-flex flex-992-nowrap">
+                <div class="page-holder col-lg-8">
+                    <ul>
+                        {% for post in paginator.posts %}
+                        <li>
+                            <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+                                <div class="page-treasure-wrapper">
+                                    <div class="page-treasure-image">
+                                        <div class="bg-image" style="background-image: url('{{ post.image }}')"></div>
+                                    </div>
+                                    <div class="page-treasure">
+                                        <!-- <h4>{{ post.tag }}</h4> -->
+                                        <h2>{{ post.title }}</h2>
+                                        <p class="date">{{ post.date | date_to_string: "ordinal", "US" }}</p>
+                                        <p>{{ post.description }}</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-lg-1"></div>
+                <aside class="col-lg-3 col-sm-992 align-self-start sticky-top sidebar d-xl-block">
+                    {% include sidebar.html %}
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Blog List -->

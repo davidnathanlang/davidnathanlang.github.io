@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 urltitle: "David Lang"
 title: "David Lang"
 categories: David Lang, Standford University, Economics of Education, Data Science, Deep Knowledge Tracing.
@@ -238,7 +238,9 @@ secondary education via SMS and feature phones
     (SISG) (2015)
 
 ------------
-## Projects and Code
+<!-- %%%%%%%%%%%%%%%%%%% Projects %%%%%%%%%%%%%%%%%%% -->
+
+##  Projects and Code
 <span></span>
 -   Data Science for Social Good
     **[https://uwescience.github.io/DSSG-Peer-Support](https://uwescience.github.io/DSSG-Peer-Support)**

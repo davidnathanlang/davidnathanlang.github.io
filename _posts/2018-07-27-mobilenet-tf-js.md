@@ -5,7 +5,6 @@ class: Deep Learning
 title: Classifying images using Keras MobileNet and TensorFlow.js in Google Chrome
 description: Learn how to perform image classification (recognition) using Keras MobileNet and TensorFlow.js.
 permalink: software/mobile-net-tensorflow-js
-image: https://drive.google.com/uc?id=1AUebpO4EK4JJSSchFFYiMZlFDoa1LLoy
 tag: image classifying
 ---
 

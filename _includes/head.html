@@ -35,4 +35,7 @@
   {% if page.layout == "post" %}
   <link rel="stylesheet" type="text/css" href="{{ "/static/css/highlight.css" | relative_url }}">
   {% endif %}
+  {% if page.layout == "blog" %}
+  <link rel="stylesheet" type="text/css" href="{{ "/static/css/bloglayout.css" | relative_url }}">
+  {% endif %}
 </head>

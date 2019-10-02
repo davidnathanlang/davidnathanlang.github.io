@@ -8,23 +8,19 @@ color: grad-blog
 image: /images/icons/logo.png
 ---
 <!-- Blog List -->
-<div class="home-container">
-    <div class="home-articles">
+<div class="blog-container">
+    <div class="blog-articles">
         <div class="container">
             <div class="row-flex flex-992-nowrap">
                 <div class="page-holder col-lg-8">
                     <ul>
                         {% for post in paginator.posts %}
-                        <li>
+                        <li class="blog-list">
                             <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
                                 <div class="page-treasure-wrapper">
-                                    <div class="page-treasure-image">
-                                        <div class="bg-image" style="background-image: url('{{ post.image }}')"></div>
-                                    </div>
                                     <div class="page-treasure">
-                                        <!-- <h4>{{ post.tag }}</h4> -->
-                                        <h2>{{ post.title }}</h2>
                                         <p class="date">{{ post.date | date_to_string: "ordinal", "US" }}</p>
+                                        <h2>{{ post.title }}</h2>
                                         <p>{{ post.description }}</p>
                                     </div>
                                 </div>

@@ -2,7 +2,7 @@
 layout: post
 category: [math, ipsum]
 title: "Lorem ipsum dolor sit amet consectetur adipisicing elit"
-description: Learn how to create your first Deep Neural Network in few lines of code using Keras and Python
+description: Eiusmod laboris dolore sunt eiusmod enim ex ea sunt irure occaecat in elit sint.
 author: David Lang
 ---
 

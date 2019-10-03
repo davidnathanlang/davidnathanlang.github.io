@@ -2,7 +2,7 @@
 layout: post
 category: [math, ipsum]
 title: "Enim cupidatat laboris"
-description: Learn how to create your first Deep Neural Network in few lines of code using Keras and Python
+description: Irure et elit mollit enim excepteur laboris anim proident in laborum dolore.
 author: David Lang
 ---
 

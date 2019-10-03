@@ -2,7 +2,7 @@
 layout: post
 category: [math, logic]
 title: "Non occaecat deserunt sed non esse officia dolore"
-description: Learn how to create your first Deep Neural Network in few lines of code using Keras and Python
+description: Eu est laboris consectetur ut consequat do ullamco ut incididunt incididunt velit laboris nostrud exercitation in velit sit.
 author: David Lang
 ---
 

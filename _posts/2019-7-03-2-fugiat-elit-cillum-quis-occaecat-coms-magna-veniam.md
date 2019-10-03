@@ -2,7 +2,7 @@
 layout: post
 category: [math, ipsum]
 title: "Fugiat elit cillum quis occaecat coms magna veniam"
-description: Learn how to create your first Deep Neural Network in few lines of code using Keras and Python
+description: Dolore veniam mollit magna ea in nisi minim ullamco enim nulla magna officia.
 author: David Lang
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 category: [math, ipsum]
 title: "Sit nulla amet veniam laborum consequa"
-description: Learn how to create your first Deep Neural Network in few lines of code using Keras and Python
+description: Ea aute nostrud nisi irure eu eiusmod nostrud ut irure excepteur.
 author: David Lang
 ---
 

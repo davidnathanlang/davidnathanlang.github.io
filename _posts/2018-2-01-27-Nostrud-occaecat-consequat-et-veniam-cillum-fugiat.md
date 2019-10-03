@@ -2,7 +2,7 @@
 layout: post
 category: [math, life, sdbool]
 title: "Nostrud occaecat consequat et veniam cillum fugiat"
-description: Learn how to create your first Deep Neural Network in few lines of code using Keras and Python
+description: Amet qui in qui eu deserunt nostrud quis amet ut ea dolore culpa consectetur sit deserunt.
 author: David Lang
 ---
 

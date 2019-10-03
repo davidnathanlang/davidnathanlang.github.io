@@ -1,0 +1,62 @@
+---
+layout: blog
+heading: blog
+title: Blog
+subheading: David Lang, Standford University, Economics of Education, Data Science, Deep Knowledge Tracing.
+---
+<!-- Category List -->
+<div class="blog-container">
+    <div class="blog-articles">
+        <div class="container">
+            <div class="row-flex flex-992-nowrap">
+                <div class="page-holder col-lg-8">
+                    <ul>
+                        {% for category in site.categories %}
+                        <div class="category-item mb-4">
+                            {% capture category_name %}{{ category | first }}{% endcapture %}
+                            <h3 id="{{ category_name | slugize }}" class="category-head text-capitalize">{{ category_name }}</h3>
+                            {% for post in site.categories[category_name] %}
+                            <div>
+                                <a class="category-thumbnail-wrapper" href="{{ post.url | relative_url }}">
+                                    <div class="thumbnail-text">
+                                        <p class="category-thumbnail-copy">{{ post.title | escape }}</p>
+                                        <p class="post-excerpts">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 90 }}</p>
+                                    </div>
+                                </a>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-lg-1"></div>
+                <aside class="col-lg-3 col-sm-992 align-self-start sticky-top sidebar d-xl-block">
+                    {% include sidebar.html %}
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Category List -->
+
+<!-- <div class="container">
+    <h1 id="categories" class="mb-5 category-title">Categories</h1>
+    <div id="category-list">
+        {% for category in site.categories %}
+        <div class="category-item mb-4">
+            {% capture category_name %}{{ category | first }}{% endcapture %}
+            <h3 id="{{ category_name | slugize }}" class="category-head text-capitalize">{{ category_name }}</h3>
+            {% for post in site.categories[category_name] %}
+            <div>
+                <a class="category-thumbnail-wrapper" href="{{ post.url | relative_url }}">
+                    <div class="thumbnail-text">
+                        <p class="category-thumbnail-copy">{{ post.title | escape }}</p>
+                        <p class="post-excerpts">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 90 }}</p>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</div> -->

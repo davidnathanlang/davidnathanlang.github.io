@@ -33,3 +33,13 @@ excerpt_separator: <!--more-->
 paginate: 6
 paginate_path: "/blog/page:num/"
 recent_post_limit: 4
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+defaults:
+- scope:
+    path: "" # an empty string here means all files in the project
+    type: "posts" # previously `post` in Jekyll 2.2.
+  values:
+    permalink: "/blog/:title"

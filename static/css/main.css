@@ -357,7 +357,7 @@ float: left;
 
 .pagination {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 0px !important;
   margin-bottom: 55px;
   display: block;
 }
@@ -369,4 +369,112 @@ figcaption {
   background-color: #ffffff;
   line-height: 20px;
   text-align: center
+}
+
+.coding {
+    background-color: #eff2ff !important;
+    font-size: 12px !important;
+    font-family: monospace !important;
+    line-height: 25px;
+    border-radius: 4px !important;
+    padding: 3px 6px !important;
+    color: #2a77d2 !important;
+    border: 1px solid #d1d2fa
+}
+
+.note {
+    padding: 30px;
+    margin-bottom: 1.7em !important;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    position: relative;
+    cursor: pointer;
+    background-color: #ff00002b;
+    border-radius: 10px
+}
+blockquote {
+  background-color: #d6daff;
+}
+
+@media screen and (max-width: 640px) {
+    .note {
+        margin-left:-15px;
+        margin-right: -15px;
+        padding: 30px 15px;
+        border-radius: 0px
+    }
+}
+
+.note:hover,.note:active {
+    box-shadow: 2px 5px 6px rgba(72,72,72,0.14)
+}
+
+.note p {
+    margin: 0px !important;
+    color: black !important
+}
+
+.note ul {
+    margin: 0px !important;
+    color: black !important
+}
+
+.note center {
+    margin-top: 10px;
+    font-size: 13px;
+    color: rgba(0,0,0,0.4);
+    font-style: italic
+}
+
+.post-heading h1 {
+  max-width: 580px;
+  color: #000 !important;
+  font-size: 2.2em;
+  text-align: center;
+  word-wrap: break-word;
+  line-height: 1.3em;
+  /* font-family: "Poppins",sans-serif; */
+  padding: 10px 10px 0px 0px;
+  margin: 0px auto;
+  font-weight: bold;
+  letter-spacing: 0.6px
+}
+
+@media screen and (max-width: 640px) {
+  .post-heading h1 {
+    font-size:2rem;
+    padding: 0px;
+    max-width: auto;
+    width: 100%;
+    text-align: left
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .categories-wrapper h1 {
+    text-align:center !important
+  }
+}
+
+.post-subheading p {
+  color: #000;
+  font-size: 14px;
+  margin: 0 0 20px 0 !important;
+  text-align: center;
+}
+.post-categories {
+  color: #000;
+  font-size: 14px;
+  text-align: center;
+}
+
+@media screen and (max-width: 640px) {
+  .post-subheading p, .post-categories {
+    text-align:left !important;
+    padding-left: 1px
+  }
+}
+
+.post-heading img {
+  height: 70px;
+  margin: 20px auto
 }

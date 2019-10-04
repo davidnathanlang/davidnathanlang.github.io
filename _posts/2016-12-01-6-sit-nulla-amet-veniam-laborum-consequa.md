@@ -4,7 +4,7 @@ category: [math, ipsum]
 title: "Sit nulla amet veniam laborum consequa"
 description: Ea aute nostrud nisi irure eu eiusmod nostrud ut irure excepteur.
 author: David Lang
-comments: false
+comments: true
 ---
 
 **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur, provident nemo soluta similique, maiores sit dicta doloremque facere laudantium [Keras](https://keras.io/){:target="_blank"} Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque totam voluptatem porro accusantium id.**

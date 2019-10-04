@@ -4,7 +4,7 @@ category: [math, ipsum]
 title: "6 Lorem ipsum dolor sit amet consectetur"
 description: Ex dolore cillum ad sunt irure reprehenderit elit aliqua proident qui sed aliquip deserunt ullamco ea ut est in.
 author: David Lang
-comments: false
+comments: true
 ---
 
 **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur, provident nemo soluta similique, maiores sit dicta doloremque facere laudantium [Keras](https://keras.io/){:target="_blank"} Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque totam voluptatem porro accusantium id.**

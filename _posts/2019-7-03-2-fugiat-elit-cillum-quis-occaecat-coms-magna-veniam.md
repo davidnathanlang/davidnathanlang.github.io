@@ -4,7 +4,7 @@ category: [math, ipsum]
 title: "Fugiat elit cillum quis occaecat coms magna veniam"
 description: Dolore veniam mollit magna ea in nisi minim ullamco enim nulla magna officia.
 author: David Lang
-comments: false
+comments: true
 ---
 
 **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur, provident nemo soluta similique, maiores sit dicta doloremque facere laudantium [Keras](https://keras.io/){:target="_blank"} Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque totam voluptatem porro accusantium id.**

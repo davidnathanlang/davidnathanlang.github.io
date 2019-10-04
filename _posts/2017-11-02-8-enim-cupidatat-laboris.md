@@ -4,7 +4,7 @@ category: [math, ipsum]
 title: "Enim cupidatat laboris"
 description: Irure et elit mollit enim excepteur laboris anim proident in laborum dolore.
 author: David Lang
-comments: false
+comments: true
 ---
 
 **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur, provident nemo soluta similique, maiores sit dicta doloremque facere laudantium [Keras](https://keras.io/){:target="_blank"} Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque totam voluptatem porro accusantium id.**

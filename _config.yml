@@ -12,6 +12,9 @@ ga_id:
 #social media
 twitter: davidnlang
 
+disqus:
+  shortname: davidnathanlang
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge

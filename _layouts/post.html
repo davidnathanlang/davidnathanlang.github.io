@@ -31,6 +31,9 @@
     </div>
 
     {% include footer.html %}
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
 
   </body>
 </html>

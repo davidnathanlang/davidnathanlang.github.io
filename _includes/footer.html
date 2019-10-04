@@ -10,6 +10,22 @@
 </script>
 {% endif %}
 
+<script>
+
+  function windowScrollHandler() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById("btnScrollTop").style.display = "block";
+      } else {
+          document.getElementById("btnScrollTop").style.display = "none";
+      }
+  }
+  function topScroller() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+  }
+
+</script>
+
 <script type="text/javascript" src="{{site.baseurl}}/static/js/jquery.min.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/static/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/static/js/custom.js"></script>

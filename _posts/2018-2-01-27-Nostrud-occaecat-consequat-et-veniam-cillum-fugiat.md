@@ -4,6 +4,7 @@ category: [math, life, sdbool]
 title: "Nostrud occaecat consequat et veniam cillum fugiat"
 description: Amet qui in qui eu deserunt nostrud quis amet ut ea dolore culpa consectetur sit deserunt.
 author: David Lang
+comments: false
 ---
 
 **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia consequuntur, provident nemo soluta similique, maiores sit dicta doloremque facere laudantium [Keras](https://keras.io/){:target="_blank"} Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque totam voluptatem porro accusantium id.**

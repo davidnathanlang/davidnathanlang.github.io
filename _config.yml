@@ -7,6 +7,7 @@ url: "https://davidnathanlang.github.io" # the base hostname & protocol for your
 # Build settings
 markdown: kramdown
 include: ['_pages']
+# for google analyitcs ID
 ga_id:
 
 #social media

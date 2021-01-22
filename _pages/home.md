@@ -71,7 +71,9 @@ permalink: /
 <!-- %%%%%%%%%%%%%%%%%%% PUBLICATIONS %%%%%%%%%%%%%%%%%%% -->
 ## Publications and Conference Proceedings
 <a class="anchor" name="/publications-and-conference-proceedings"></a>
-
+    **Lang, D.** N., Chen, Y., Paepcke, A., & Stevens, M. (2020). [Course reviews reveal gender differences and other scientific insight about the students who submit them](https://edarxiv.org/ftw6h/). EdArxiv.
+    
+    **Lang, D.**, Chen, G., Mirzaei, K., & Paepcke, A. (2020, March). [Is faster better? a study of video playback speed.](https://dl.acm.org/doi/abs/10.1145/3375462.3375466) In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (pp. 260-269).
 1.  **Lang, D.** Stenhaug, B. Kizilcec, R. 2019. [Keystrokes, Edit
     Distance, and Grading Rules: Psychometric Properties of Short Answer
     Items](https://www.dropbox.com/s/uknk870dgw2ngrc/Keystrokes.pdf?dl=0).

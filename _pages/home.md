@@ -71,55 +71,54 @@ permalink: /
 <!-- %%%%%%%%%%%%%%%%%%% PUBLICATIONS %%%%%%%%%%%%%%%%%%% -->
 ## Publications and Conference Proceedings
 <a class="anchor" name="/publications-and-conference-proceedings"></a>
-    **Lang, D.** N., Chen, Y., Paepcke, A., & Stevens, M. (2020). [Course reviews reveal gender differences and other scientific insight about the students who submit them](https://edarxiv.org/ftw6h/). EdArxiv.
-    
-    **Lang, D.**, Chen, G., Mirzaei, K., & Paepcke, A. (2020, March). [Is faster better? a study of video playback speed.](https://dl.acm.org/doi/abs/10.1145/3375462.3375466) In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (pp. 260-269).
-1.  **Lang, D.** Stenhaug, B. Kizilcec, R. 2019. [Keystrokes, Edit
+1.    **Lang, D.** N., Chen, Y., Paepcke, A., & Stevens, M. (2020). [Course reviews reveal gender differences and other scientific insight about the students who submit them](https://edarxiv.org/ftw6h/). EdArxiv.    
+2.    **Lang, D.**, Chen, G., Mirzaei, K., & Paepcke, A. (2020, March). [Is faster better? a study of video playback speed.](https://dl.acm.org/doi/abs/10.1145/3375462.3375466) In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (pp. 260-269).
+3.  **Lang, D.** Stenhaug, B. Kizilcec, R. 2019. [Keystrokes, Edit
     Distance, and Grading Rules: Psychometric Properties of Short Answer
     Items](https://www.dropbox.com/s/uknk870dgw2ngrc/Keystrokes.pdf?dl=0).
     AERA 2019.
 
-2.  Mongkhonvanit, K., Kanopka, K., & **Lang, D.** (2019, March).[ Deep
+4.  Mongkhonvanit, K., Kanopka, K., & **Lang, D.** (2019, March).[ Deep
     Knowledge Tracing and Engagement with
     MOOCs](https://dl.acm.org/citation.cfm?id=3303830). In Proceedings
     of the 9th International Conference on Learning Analytics &
     Knowledge (pp. 340-342). ACM.
 
-3.  Benotti, L., Bhaskaran, J., Kjartansson, S., & **Lang, D.**
+5.  Benotti, L., Bhaskaran, J., Kjartansson, S., & **Lang, D.**
     (2018). [Modeling Student Response Times: Towards Efficient
     One-on-one Tutoring
     Dialogues](https://www.aclweb.org/anthology/W18-6117). In
     Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on
     Noisy User-generated Text (pp. 121-131).
 
-4.  Domingue, B. W., **Lang, D.**, Cuevas, M., Castellanos, M., Lopera,
+6.  Domingue, B. W., **Lang, D.**, Cuevas, M., Castellanos, M., Lopera,
     C., Mariño, J. P., \... & Shavelson, R. J. (2017). [Measuring student
     learning in technical programs: A case study from
     Colombia](https://journals.sagepub.com/doi/10.1177/2332858417692997).
     AERA Open, 3(1), 2332858417692997.
 
-5.  **Lang, D.**, Kindel, A., Domingue, B., & Paepcke, A. (2017).[
+7.  **Lang, D.**, Kindel, A., Domingue, B., & Paepcke, A. (2017).[
     Making the Grade: How Learner Engagement Changes after Passing a
     Course](https://eric.ed.gov/?id=ED578433). Proceedings of
     Educational Data Mining 2017.
 
-6.  Furlong, F., **Lang, D.**, & Takhtamanova, Y. (2014). [Drivers of
+8.  Furlong, F., **Lang, D.**, & Takhtamanova, Y. (2014). [Drivers of
     mortgage choices by risky
     borrowers](https://www.frbsf.org/economic-research/publications/economic-letter/2014/january/factors-lower-credit-rating-borrowers-adjustable-rate-mortgage/).
     FRBSF Economic Letter, 01.
 
-7.  Furlong, F. T., Takhtamanova, Y., & **Lang, D**. (2014). [Mortgage
+9.  Furlong, F. T., Takhtamanova, Y., & **Lang, D**. (2014). [Mortgage
     Choice in the Housing Boom: Impacts of House Price Appreciation and
     Borrower
     Type](https://www.frbsf.org/economic-research/files/wp2016-28.pdf).
     Federal Reserve Bank of San Francisco.
 
-8.  Hobijn, B., Krainer, J., & **Lang, D**. (2011). [Cap rates and
+10.  Hobijn, B., Krainer, J., & **Lang, D**. (2011). [Cap rates and
     commercial property
     prices](https://www.frbsf.org/economic-research/publications/economic-letter/2011/september/cap-rates-commercial-property-prices/).
     FRBSF Economic Letter, 2011, 29.
 
-9.  **Lang, D.**, & Lansing, K. J. (2010). [Forecasting growth over the
+11.  **Lang, D.**, & Lansing, K. J. (2010). [Forecasting growth over the
     next year with a business cycle
     index](https://www.frbsf.org/economic-research/publications/economic-letter/2010/september/forecast-growth-business-cycle-index/).
     FRBSF Economic Letter, 2010, 29.
@@ -130,9 +129,6 @@ permalink: /
 
 ### Unpublished Working Papers
 <span></span>
--   **Lang, D.** (2019).[ Is Faster Better? A Study of Video Playback
-    Speed.](https://www.dropbox.com/s/rj51tk1uj86gwt6/LAK2020__Copy_.pdf?dl=0)(In
-    Submission at LAK)
 
 -   **Lang, D.** (2017) [Digital Canvases and Remote
     Tutoring.](https://www.dropbox.com/s/l2x8bngfmv6791p/QualifyingPaper2017.pdf?dl=0)

@@ -20,7 +20,7 @@ permalink: /
     <br>
     <br>
     <br>
-    <span class="colon-pad">Email</span> : <a href="mailto:davidnathanlang@stanford.edu"> davidnathanlang@stanford.edu </a>
+    <span class="colon-pad">Email</span> : <a href="mailto:dnlang.ucla@gmail.com"> dnlang.ucla@gmail.com </a>
     <br>
     <span class="colon-pad">Twitter</span> : <a href="https://twitter.com/davidnlang"> @davidnlang </a>
   </div>
@@ -33,7 +33,7 @@ permalink: /
 
 <div class="row">
   <div class="col-md-2 year">
-    2015&mdash;2020
+    2015&mdash;2022
   </div>
   <div class="col-md-10">
     <p>

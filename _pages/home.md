@@ -288,94 +288,57 @@ Analysis, Econometrics, and Psychometrics
 ------------
 ## Employment
 <span></span>
--   (Summer 2019--Present) *Data Science Fellow*, University of
-    Washington
+### August 2023- Present: Research Manager, Cradle-to-Career California
+- Managed relations with numerous state-appointed officials, including the CIO of the State Department of Education, to establish a longitudinal data system linking birth, education, and workforce outcomes.
+- Directed the development and execution of our research request process, attracting proposals from institutions such as the California Policy Lab, and Opportunity Insights.
+- Composed policy briefs that resulted in "dear colleague" letters, elucidating the permissible use of FAFSA data for research purposes.
+- Pioneered projects to improve public-facing data visualizations and craft advanced query-building tools.
 
-    -   Identified counseling and peer support strategies using natural
-        language processing tools
+### June 2021- August 2023: Data Scientist, Western Governors University
+- Led the allocation of $60 million in pandemic relief funds and conducted causal inference analysis to assess the impact of these funds on student degree progress with an estimated cost of 15,000 dollars per additional student graduated.
+- Implemented machine learning and natural language processing techniques to analyze admission counselor and mentor notes, resulting in a 1.2% increase in forecasting accuracy for student retention.
+- Spearheaded candidate search for key positions funded by a $5 million Gates grant, successfully hiring three individuals, including senior management and hard-to-fill roles.
+- Managed and mentored three analysts on various research and reporting projects.
+- Employed regression discontinuity analysis to evaluate the effects of multiple policies concerning financial aid, evaluation and assessment, and other areas.
 
-    -   conducted social network analysis on network platform with more
-        than 500,000 thousand users
+### September 2020 - April 2021: Data Engineer, Literably Technologies
+- Reduced per-unit costs by 5% using advanced audio processing techniques.
+- Evaluated potential vendors by comparing their models' word error rates using non-parametric statistical methods.
+- Developed and fine-tuned an XGBoost model to enhance classification accuracy by 8%, resulting in a 20% reduction in costs.
+- Authored a policy brief on COVID-19 learning loss, which was featured in the New York Times.
 
-    -   Met with platform stakeholders and recommended a set of
-        interventions to improve users mental health
+### Summer 2019-Present: Data Science Fellow, University of Washington
+- Identified counseling and peer support strategies using natural language processing tools.
+- Conducted social network analysis on network platform with more than 500,000 users.
+- Met with platform stakeholders and recommended a set of interventions to improve users' mental health.
 
-<!-- -->
+### 2018-Present: Researcher, Stanford Graduate School of Business
+- Conducted interviews regarding the XPrize competition, Adult Literacy, incentive prizes, and AI in educational settings.
+- Assisted in the organization of a conference on Market Shaping.
+- Wrote a summative white paper of findings and conference proceedings.
 
--   (2018--Present) *Researcher*, Stanford Graduate School of Business
+### 2015-Present: Ph.D. Candidate, Graduate School of Education, Stanford University
+- Conducted natural language processing on text-message-based tutoring services to improve lesson quality and student engagement.
+- Recruited and ran randomized controlled trials on a mobile tutoring network.
+- Analyzed Stanford online course clickstream data and recommended policy and feature changes.
+- Worked with San Francisco Unified School District to develop models.
 
-    -   Conducted interviews regarding the XPrize competition, Adult
-        Literacy, incentive prizes, and AI in educational settings
+### 2015-2018: Partner/Consultant, Data Dream Team Consulting LLC
+- Worked with airlines to predict customer frequent-flier redemption.
+- Cleaned a terabyte plus transactional database.
+- Discussed and defended modelling choices with clients.
+- Recommended changes to frequent-flier programs.
 
-    -   Assisted in the organization of a conference on Market Shaping
-        (attendees include Hal Varian, Al Roth, Susan Athey, and other
-        experts in the field of market design and machine learning)
+### 2014-2015: Workforce Analyst, University of California Office of the President
+- Evaluated systemwide policies on faculty hiring.
+- Reviewed and modeled faculty salary equity studies.
+- Conducted survival analysis based on UC faculty data.
+- Conducted longitudinal analysis of faculty advancement.
 
-    -   Wrote a summative white paper of findings and conference
-        proceedings
+### 2008-2014: Research Analyst/Associate, Federal Reserve Bank of San Francisco
+- Spoke to a wide range of audiences about the economic outlook.
+- Fact-checked President Janet Yellen's speeches.
+- Used data-mining techniques on a joint project with McKinsey.
+- Created and cleaned a variety of datasets.
+- Created a data-retrieval add-in.
 
--   (2015--Present) *Ph.D. Candidate*, Graduate School of Education,
-    Stanford University
-
-    -   Conducted natural language processing on text-message-based
-        tutoring services to improve lesson quality and student
-        engagement
-
-    -   Recruited and ran randomized controlled trials on a mobile
-        tutoring network
-
-    -   Analyzed Stanford online course clickstream data and recommended
-        policy and feature changes to improve student completion rates
-
-    -   Worked with San Francisco Unified School District to develop
-        models to identify dyslexic students and predict student
-        absences
-
--   (2015--2018) *Partner/Consultant*, Data Dream Team Consulting LLC,
-
-    -   Worked with airlines to predict customer frequent-flier
-        redemption
-
-    -   Cleaned and massaged a terabyte plus transactional database for
-        preprocessing
-
-    -   Discussed and defended modelling choices with clients and
-        financial auditors
-
-    -   Recommended changes to frequent-flier programs based on findings
-
--   (2014--2015) *Workforce Analyst*, University of California Office
-    of the President
-
-    -   Evaluated systemwide policies on faculty hiring committee
-        composition and its effects on minority hiring outcomes
-
-    -   Reviewed and modeled faculty salary equity studies for all ten
-        campuses
-
-    -   Conducted survival analysis based on UC faculty data and other
-        data sources to predict faculty retirement
-
-    -   Conducted longitudinal analysis of faculty
-        advancement/separation using a competing risk hazard model
-
--   (2008--2014) *Research Analyst/Associate*, Federal Reserve Bank of
-    San Francisco
-
-    -   Spoke to a wide range of academic, public, and professional
-        audiences about the economic outlook and recent monetary policy
-        decisions
-
-    -   Fact-checked President Janet Yellen's speeches
-
-    -   Used data-mining techniques to improve collections on the
-        Treasury's billion-dollar debt portfolio on a joint project with
-        McKinsey and the Treasury
-
-    -   Created and cleaned a variety of datasets which utilized the
-        Consumer Expenditure Survey, McDash Mortgage Data, and other
-        financial datasets
-
-    -   Created a data-retrieval add-in that improved productivity and
-        saved our department several thousand dollars relative to
-        proprietary alternatives

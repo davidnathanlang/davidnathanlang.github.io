@@ -71,54 +71,77 @@ permalink: /
 <!-- %%%%%%%%%%%%%%%%%%% PUBLICATIONS %%%%%%%%%%%%%%%%%%% -->
 ## Publications and Conference Proceedings
 <a class="anchor" name="/publications-and-conference-proceedings"></a>
-1.    **Lang, D.** N., Chen, Y., Paepcke, A., & Stevens, M. (2020). [Course reviews reveal gender differences and other scientific insight about the students who submit them](https://edarxiv.org/ftw6h/). EdArxiv.    
-2.    **Lang, D.**, Chen, G., Mirzaei, K., & Paepcke, A. (2020, March). [Is faster better? a study of video playback speed.](https://dl.acm.org/doi/abs/10.1145/3375462.3375466) In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (pp. 260-269).
-3.  **Lang, D.** Stenhaug, B. Kizilcec, R. 2019. [Keystrokes, Edit
+
+- **Lang, D.**, Tan, Wei; Du, Lan; Buntine, Wray; Gašević, Dragan; Chen, Guanliang. (2023). [Enhancing educational dialogue act classification with discourse context and sample informativeness](https://ieeexplore.ieee.org/abstract/document/10210113/). *IEEE Transactions on Learning Technologies*.
+  
+- Lin, Jionghao; Tan, Wei; Nguyen, Ngoc Dang; **Lang, D.**; Du, Lan; Buntine, Wray; Beare, Richard; Chen, Guanliang; Gašević, Dragan. (2023). [Robust Educational Dialogue Act Classifiers with Low-Resource and Imbalanced Datasets](https://link.springer.com/chapter/10.1007/978-3-031-36272-9_10). In Proceedings of the International Conference on Artificial Intelligence in Education.
+  
+- Tan, Wei; Lin, Jionghao; **Lang, D.**; Chen, Guanliang; Gašević, Dragan; Du, Lan; Buntine, Wray. (2023). [Does informativeness matter? Active learning for educational dialogue act classification](https://arxiv.org/pdf/2304.05578.pdf). In Proceedings of the International Conference on Artificial Intelligence in Education.
+   
+- Lin, Jionghao; Raković, Mladen; Li, Yuheng; Xie, Haoran; **Lang, D.**; Gašević, Dragan; Chen, Guanliang. (2023). [On the role of politeness in online human--human tutoring](https://bera-journals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjet.13333). *British Journal of Educational Technology*.
+
+- Kizilcec, René F.; Baker, Rachel B.; Bruch, Elizabeth; Cortes, Kalena E.; Hamilton, Laura T.; **Lang, D.** Nathan; Pardos, Zachary A.; Thompson, Marissa E.; Stevens, Mitchell L. (2023). [From pipelines to pathways in the study of academic progress](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yxFoQ8UAAAAJ&sortby=pubdate&citation_for_view=yxFoQ8UAAAAJ:UHK10RUVsp4C). *Science*, Vol. 380, No. 6643, pp. 344-347. Publisher: American Association for the Advancement of Science.
+
+- **Lang, D.**; Wang, Alex; Dalal, Nathan; Paepcke, Andreas; Stevens, Mitchell L. (2022). [Forecasting Undergraduate Majors: A Natural Language Approach](https://journals.sagepub.com/doi/pdf/10.1177/23328584221126516). *AERA Open*, Vol. 8.
+
+- Lin, Jionghao; Rakovic, Mladen; **Lang, D.**; Gašević, Dragan; Chen, Guanliang. (2022). [Exploring the politeness of instructional strategies from human-human online tutoring dialogues](https://edarxiv.org/kyz5t/download?format=pdf). In Proceedings of the LAK22: 12th International Learning Analytics and Knowledge Conference.
+
+- Domingue, Benjamin W.; Dell, Madison; **Lang, D.**; Silverman, Rebecca; Yeatman, Jason; Hough, Heather. (2022). [The effect of COVID on oral reading fluency during the 2020--2021 academic year](https://journals.sagepub.com/doi/pdf/10.1177/23328584221120254). *AERA Open*, Vol. 8. Publisher: SAGE Publications.
+
+- Lin, Jionghao; Singh, Shaveen; Sha, Lele; Tan, Wei; **Lang, D.**; Gašević, Dragan; Chen, Guanliang. (2022). [Is it a good move? Mining effective tutoring strategies from human--human tutorial dialogues](https://www.researchgate.net/profile/Dragan-Gasevic/publication/354466840_Is_it_a_good_move_Mining_effective_tutoring_strategies_from_human-human_tutorial_dialogues/links/61938acf07be5f31b7881d17/Is-it-a-good-move-Mining-effective-tutoring-strategies-from-human-human-tutorial-dialogues.pdf). *Future Generation Computer Systems*, Vol. 127, pp. 194-207. Publisher: North-Holland.
+
+- **Lang, D.**, Esbenshade, Lief; Willer, Robb. (2021). [Did Ohio’s vaccine lottery increase vaccination rates](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/07720E0BB974962FE4547FF2BCC71CAC/S2052263021000324a.pdf/did-ohios-vaccine-lottery-increase-vaccination-rates-a-pre-registered-synthetic-control-study.pdf). *A Pre-Registered, Synthetic Control Study*.
+
+- Domingue, Benjamin W.; Hough, Heather J.; **Lang, D.**; Yeatman, Jason. (2021). [Changing Patterns of Growth in Oral Reading Fluency during the COVID-19 Pandemic. Working Paper](https://files.eric.ed.gov/fulltext/ED612595.pdf). *Policy Analysis for California Education, PACE*. Publisher: Policy Analysis for California Education, PACE.
+
+
+- Soland, James; Domingue, Benjamin; **Lang, D.** (2020). [Using Machine Learning to Advance Early Warning Systems: Promise and Pitfalls](https://journals.sagepub.com/doi/abs/10.1177/016146812012201403). *Teachers College Record*, Vol. 122, No. 14, pp. 1-30. Publisher: SAGE Publications.
+-    **Lang, D.** N., Chen, Y., Paepcke, A., & Stevens, M. (2020). [Course reviews reveal gender differences and other scientific insight about the students who submit them](https://edarxiv.org/ftw6h/). EdArxiv.    
+-    **Lang, D.**, Chen, G., Mirzaei, K., & Paepcke, A. (2020, March). [Is faster better? a study of video playback speed.](https://dl.acm.org/doi/abs/10.1145/3375462.3375466) In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (pp. 260-269).
+-  **Lang, D.** Stenhaug, B. Kizilcec, R. 2019. [Keystrokes, Edit
     Distance, and Grading Rules: Psychometric Properties of Short Answer
     Items](https://www.dropbox.com/s/uknk870dgw2ngrc/Keystrokes.pdf?dl=0).
     AERA 2019.
-
-4.  Mongkhonvanit, K., Kanopka, K., & **Lang, D.** (2019, March).[ Deep
+-  Mongkhonvanit, K., Kanopka, K., & **Lang, D.** (2019, March).[ Deep
     Knowledge Tracing and Engagement with
     MOOCs](https://dl.acm.org/citation.cfm?id=3303830). In Proceedings
     of the 9th International Conference on Learning Analytics &
     Knowledge (pp. 340-342). ACM.
 
-5.  Benotti, L., Bhaskaran, J., Kjartansson, S., & **Lang, D.**
+-  Benotti, L., Bhaskaran, J., Kjartansson, S., & **Lang, D.**
     (2018). [Modeling Student Response Times: Towards Efficient
     One-on-one Tutoring
     Dialogues](https://www.aclweb.org/anthology/W18-6117). In
     Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on
     Noisy User-generated Text (pp. 121-131).
 
-6.  Domingue, B. W., **Lang, D.**, Cuevas, M., Castellanos, M., Lopera,
+-  Domingue, B. W., **Lang, D.**, Cuevas, M., Castellanos, M., Lopera,
     C., Mariño, J. P., \... & Shavelson, R. J. (2017). [Measuring student
     learning in technical programs: A case study from
     Colombia](https://journals.sagepub.com/doi/10.1177/2332858417692997).
     AERA Open, 3(1), 2332858417692997.
 
-7.  **Lang, D.**, Kindel, A., Domingue, B., & Paepcke, A. (2017).[
+-  **Lang, D.**, Kindel, A., Domingue, B., & Paepcke, A. (2017).[
     Making the Grade: How Learner Engagement Changes after Passing a
     Course](https://eric.ed.gov/?id=ED578433). Proceedings of
     Educational Data Mining 2017.
 
-8.  Furlong, F., **Lang, D.**, & Takhtamanova, Y. (2014). [Drivers of
+-  Furlong, F., **Lang, D.**, & Takhtamanova, Y. (2014). [Drivers of
     mortgage choices by risky
     borrowers](https://www.frbsf.org/economic-research/publications/economic-letter/2014/january/factors-lower-credit-rating-borrowers-adjustable-rate-mortgage/).
     FRBSF Economic Letter, 01.
 
-9.  Furlong, F. T., Takhtamanova, Y., & **Lang, D**. (2014). [Mortgage
+-  Furlong, F. T., Takhtamanova, Y., & **Lang, D**. (2014). [Mortgage
     Choice in the Housing Boom: Impacts of House Price Appreciation and
     Borrower
     Type](https://www.frbsf.org/economic-research/files/wp2016-28.pdf).
     Federal Reserve Bank of San Francisco.
-
-10.  Hobijn, B., Krainer, J., & **Lang, D**. (2011). [Cap rates and
+-  Hobijn, B., Krainer, J., & **Lang, D**. (2011). [Cap rates and
     commercial property
     prices](https://www.frbsf.org/economic-research/publications/economic-letter/2011/september/cap-rates-commercial-property-prices/).
     FRBSF Economic Letter, 2011, 29.
 
-11.  **Lang, D.**, & Lansing, K. J. (2010). [Forecasting growth over the
+-  **Lang, D.**, & Lansing, K. J. (2010). [Forecasting growth over the
     next year with a business cycle
     index](https://www.frbsf.org/economic-research/publications/economic-letter/2010/september/forecast-growth-business-cycle-index/).
     FRBSF Economic Letter, 2010, 29.
